@@ -1,0 +1,1 @@
+cc pgof.c -o pgof.out $(pkg-config --cflags --libs cairo)
