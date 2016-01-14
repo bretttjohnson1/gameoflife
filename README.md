@@ -1,4 +1,4 @@
-gameoflife
-uses pointers
-pgof uses pointers
-gof uses arrays
+gameoflife \n
+uses pointers \n
+pgof uses pointers \n
+gof uses arrays \n
