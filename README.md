@@ -1,0 +1,2 @@
+# gameoflife
+# uses pointers
